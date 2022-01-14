@@ -11,6 +11,12 @@ Before getting started, go ahead and install NextJS via:
 npm i next
 ```
 
+Don't forget to remove the git repository!
+
+```bash
+rm -rf .git
+```
+
 Then, run the development server:
 
 ```bash
