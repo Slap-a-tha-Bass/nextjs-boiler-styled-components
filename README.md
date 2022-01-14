@@ -1,3 +1,10 @@
+### Slap-a-tha-Bass
+
+### NextJS Boiler With Styled Components
+
+### Custom styles already applied with Navbar and pages ready to be modified
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
