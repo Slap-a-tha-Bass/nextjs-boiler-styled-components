@@ -11,7 +11,7 @@ Before getting started, go ahead and install NextJS via:
 npm i next
 ```
 
-First, run the development server:
+Then, run the development server:
 
 ```bash
 npm run dev
