@@ -7,7 +7,6 @@ const Container = styled.nav`
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #0c9468;
   margin: 1vw;
   padding: 1vw;
 `;
