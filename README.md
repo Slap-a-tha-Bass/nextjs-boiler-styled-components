@@ -17,6 +17,14 @@ Don't forget to remove the git repository!
 rm -rf .git
 ```
 
+Then, run the build script:
+
+```bash
+npm run build
+# or
+yarn dev
+```
+
 Then, run the development server:
 
 ```bash
